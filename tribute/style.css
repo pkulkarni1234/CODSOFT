@@ -1,0 +1,33 @@
+.first
+{
+    width: device-width;
+    height: 3350px;
+    background-color: rgb(226, 207, 245);
+}
+.a{
+    padding:70px;
+}
+img{
+    border-radius: 50%;
+}
+.b{
+    font-family: sans-serif;
+   
+    margin-top: 130px;
+
+}
+.second
+{
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 30px;
+}
+.third
+{
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 30px;
+}
+h3{
+    margin-top: 50px;
+}
